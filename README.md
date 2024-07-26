@@ -33,7 +33,6 @@ cd <repository-directory>
 Create a virtual environment using venv:
 
 ```bash
-Copy code
 python -m venv venv
 ```
 
@@ -42,13 +41,11 @@ python -m venv venv
 #### On Windows:
 
 ```bash
-Copy code
 venv\Scripts\activate
 ```
 #### On macOS/Linux:
 
 ```bash
-Copy code
 source venv/bin/activate
 ```
 
@@ -56,15 +53,13 @@ source venv/bin/activate
 Install the required packages using requirements.txt:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 ### 4. Running the Application
 To run the application, use the following command:
 
 ```bash
-Copy code
-python main.py
+python app.py
 ```
 This will start the application, and you should see a window displaying your camera feed and the drawing canvas.
 
