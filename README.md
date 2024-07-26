@@ -11,6 +11,9 @@
 - Save the drawings as images.
 - Use different colors including Blue, Green, Red, Yellow, Orange, Brown, Pink, Cyan, Black, Maroon, Grey, and Purple.
 
+![Description of Image](https://github.com/kushalgupta1203/FingerTip-Canvas/blob/main/Pictures/1.png)
+![Description of Image](https://github.com/kushalgupta1203/FingerTip-Canvas/blob/main/Pictures/2.png)
+
 ## Prerequisites
 
 Ensure you have Python 3.6 or later installed on your system. You also need to install the required Python packages listed in `requirements.txt`.
@@ -36,13 +39,13 @@ python -m venv venv
 
 ## Activate the virtual environment:
 
-### i. On Windows:
+### On Windows:
 
 ```bash
 Copy code
 venv\Scripts\activate
 ```
-### ii. On macOS/Linux:
+### On macOS/Linux:
 
 ```bash
 Copy code
@@ -64,10 +67,6 @@ Copy code
 python main.py
 ```
 This will start the application, and you should see a window displaying your camera feed and the drawing canvas.
-
-![Description of Image](https://github.com/kushalgupta1203/FingerTip-Canvas/blob/main/Pictures/1.png)
-![Description of Image](https://github.com/kushalgupta1203/FingerTip-Canvas/blob/main/Pictures/2.png)
-
 
 ## Usage
 - Drawing: Use your hand to draw on the canvas. The drawing color can be changed by selecting different color buttons on the camera feed.
