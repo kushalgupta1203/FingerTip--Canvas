@@ -11,8 +11,8 @@
 - Save the drawings as images.
 - Use different colors including Blue, Green, Red, Yellow, Orange, Brown, Pink, Cyan, Black, Maroon, Grey, and Purple.
 
-![Description of Image](https://github.com/kushalgupta1203/FingerTip-Canvas/blob/main/Pictures/1.png)
 ![Description of Image](https://github.com/kushalgupta1203/FingerTip-Canvas/blob/main/Pictures/2.png)
+![Description of Image](https://github.com/kushalgupta1203/FingerTip-Canvas/blob/main/Pictures/1.png)
 
 ## Prerequisites
 
