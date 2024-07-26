@@ -37,29 +37,29 @@ Copy code
 python -m venv venv
 ```
 
-## Activate the virtual environment:
+### Activate the virtual environment:
 
-### On Windows:
+#### On Windows:
 
 ```bash
 Copy code
 venv\Scripts\activate
 ```
-### On macOS/Linux:
+#### On macOS/Linux:
 
 ```bash
 Copy code
 source venv/bin/activate
 ```
 
-## 3. Install Required Packages
+### 3. Install Required Packages
 Install the required packages using requirements.txt:
 
 ```bash
 Copy code
 pip install -r requirements.txt
 ```
-## 4. Running the Application
+### 4. Running the Application
 To run the application, use the following command:
 
 ```bash
